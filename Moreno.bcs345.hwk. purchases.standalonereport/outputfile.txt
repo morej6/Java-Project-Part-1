@@ -1,0 +1,14 @@
+Purchase Report
+---------------
+Jane Doe
+10 Broadway
+New York, NY 10001
+
+Description                           Price   Quantity         Cost
+-----------                     ----------- -----------  -----------
+Galaxy S7                            199.99          2       99.995
+Samsung Bluetooth                     29.99          1        29.99
+Slim Fit Hard Plastic Case             2.99          2        1.495
+Charger                               17.99          3 5.996666666666666
+-----------                     ----------- -----------  -----------
+Total                                                8       137.48
